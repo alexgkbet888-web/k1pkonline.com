@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game alternative","/","homepage",1
+"comparison","k1 game alternative","/guides/k1-game-alternatives/","comparison",1
+"comparison","apps like k1 game","/guides/apps-like-k1-game/","comparison",1
+"comparison","k1 game feature matrix","/guides/feature-matrix/","comparison",1
+"comparison","k1 game payment comparison","/guides/payment-comparison/","comparison",1
+"risk","k1 game download risk","/guides/download-risk-comparison/","risk",2
+"comparison","k1 game support comparison","/guides/support-comparison/","comparison",2
+"decision","k1 game wallet gameplay","/guides/wallet-vs-gameplay/","decision",2
+"comparison","earning apps like k1 game pakistan","/guides/earning-apps-pakistan/","comparison",2
+"decision","k1 game decision checklist","/guides/decision-checklist/","decision",3
+"faq","k1 game alternatives faq","/guides/alternative-faq/","faq",3
+"safety","k1 game safe alternative","/guides/safe-choice-framework/","safety",3
+"freshness","k1 game comparison notes","/guides/weekly-comparison-notes/","freshness",3
+hub,"Alternatives","/alternatives/","hub",1
+hub,"Feature Matrix","/feature-matrix/","hub",2
+hub,"Payment Compare","/payment-compare/","hub",3
+hub,"Decision Guide","/decision-guide/","hub",4
