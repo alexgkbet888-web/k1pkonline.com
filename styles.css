@@ -39,4 +39,6 @@ body{margin:0;background:#eef2ff;color:#172554;font-family:Inter,Arial,sans-seri
   .m-register{width:min(338px,calc(100vw - 52px))!important}
   .m-actions{width:min(338px,calc(100vw - 52px))!important}
 }
+/* compare-mobile-actions-readable-20260614 */
+@media(max-width:860px){.m-compare .m-actions{grid-template-columns:1fr!important}.m-compare .m-actions a{text-align:center!important}}
 
