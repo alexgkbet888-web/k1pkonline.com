@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Compare Lab",
+    "short_name":  "K1 Compare Lab",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "K1 Game comparison lab for Pakistan users comparing alternatives, download safety, support quality, wallet routes, registration steps and practical tradeoffs.",
+    "icons":  [
+
+              ]
+}
