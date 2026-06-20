@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>K1 Compare Lab Feed</title>
     <link>http://k1pkonline.com/</link>
     <description>Recent guide updates for K1 Compare Lab.</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <item>
+      <title>K1 Game Guide Site vs Agent Status Post: Which Source Is More Useful?</title>
+      <link>http://k1pkonline.com/guides/guide-site-vs-agent-status-post/</link>
+      <guid>http://k1pkonline.com/guides/guide-site-vs-agent-status-post/</guid>
+      <pubDate>Fri, 19 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Comparison page for Pakistan users deciding whether an independent K1 Game guide site or an agent status post offers clearer link, support, and evidence context.</description>
+    </item>
+    <item>
+      <title>K1 Game vs Facebook Groups: Which Source Is Safer to Trust?</title>
+      <link>http://k1pkonline.com/guides/k1-game-vs-facebook-groups/</link>
+      <guid>http://k1pkonline.com/guides/k1-game-vs-facebook-groups/</guid>
+      <pubDate>Thu, 18 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Comparison guide for users deciding between independent K1 Game guide pages and Facebook groups that share links, bonus talk or support claims.</description>
+    </item>
     <item>
       <title>K1 Game vs WhatsApp Support Link: Trust Comparison</title>
       <link>http://k1pkonline.com/guides/k1-game-vs-whatsapp-support-link/</link>
@@ -175,3 +189,4 @@
     </item>
   </channel>
 </rss>
+
