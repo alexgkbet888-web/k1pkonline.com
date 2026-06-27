@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1pkonline.com",
+  "brand": "K1 PK Online",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1pkonline.com/",
+  "siteType": "authority",
+  "positioning": "K1 alternatives, official-link comparison and feature-matrix site",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K1 game alternative",
+    "apps like K1 game",
+    "K1 game comparison"
+  ],
+  "secondaryKeywords": [
+    "K1 official link comparison",
+    "K1 game feature matrix",
+    "K1 game vs other apps",
+    "K1 safe choice checklist"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1pkonline.com/sitemap.xml",
+    "robotsUrl": "https://k1pkonline.com/robots.txt",
+    "feedUrl": "https://k1pkonline.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1pkonline.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
